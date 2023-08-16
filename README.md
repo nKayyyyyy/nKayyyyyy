@@ -1,13 +1,8 @@
 ### Hello colon parentheses 
 
-<!--
-**nKayyyyyy/nKayyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a struchtured crazied cooder with decent knowlage in Python and html
 sucker for storyboards and overly intrinsic variable names
  
-
-
 ## More things
 - Survived HSC
 - Learnt Rockstar (and then forgot it)
