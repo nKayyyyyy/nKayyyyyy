@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello colon parentheses 
 
 <!--
 **nKayyyyyy/nKayyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a struchtured crazied cooder with decent knowlage in Python and html
+sucker for storyboards and overly intrinsic variable names
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## More things
+- Survived HSC
+- Learnt Rockstar (and then forgot it)
+- Sufficient in python (pygame is a sin)
+- Relearing html, css and markdown
+- Hate replit, I wanna play sounds 
+- Working on the website for valorant (peak d1)
+- School champion fencer (yes)
+
