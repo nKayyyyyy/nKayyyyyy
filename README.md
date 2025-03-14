@@ -9,4 +9,4 @@ I'm a struchtured crazied cooder with decent knowlage in Python and html. Sucker
 - Hate replit, I wanna play sounds 
 - Working on the website for valorant (peak d1)
 - School champion fencer (yes)
-- I have built 3 desktop computers
+- I have built 9 desktop computers
